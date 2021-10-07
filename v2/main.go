@@ -1,7 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"github.com/tsilvers/modvtest/v2/show"
+)
 
 func main() {
-	fmt.Println("Version 2.1.9 - no tag")
+	show.Indent(2,"Version 2.3.0")
 }
