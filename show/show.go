@@ -7,5 +7,5 @@ import (
 
 func Indent(spaces int, msg string) {
 	indent := strings.Repeat(" ", spaces)
-	fmt.Printf("%s%s (2)\n", indent, msg)
+	fmt.Printf("%s%s (1)\n", indent, msg)
 }

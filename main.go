@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/tsilvers/modvtest/v2/show"
+	"github.com/tsilvers/modvtest/show"
 )
 
 func main() {
